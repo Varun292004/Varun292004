@@ -1,60 +1,65 @@
-<!-- Banner/Video Section -->
+<!-- Banner -->
 <p align="center">
-  <!-- Replace the path below with your actual video or graphic file in the repo -->
-  <img src="banner.gif" alt="Tech Hacker Banner" width="800"/>
-  <!-- Or embed a video (upload .mp4 to your repo) -->
-  <!-- <video src="assets/banner.mp4" autoplay loop muted width="800"></video> -->
+  <img src="./banner.gif" alt="Banner" width="100%">
 </p>
 
-# Hi, I'm Varun Vijay Kale 👾
-
-Aspiring Software Engineer | AI & ML | Tech Innovator
-
----
-
-- 📂 *Location:* Tulja Bhavani Nagar, Kharadi, Pune
-- 📬 *Email:* varunkale1829@gmail.com
-- 🌐 *GitHub:* [Varun292004](https://github.com/Varun292004)
-- 💼 *LeetCode:* [uvarun1](https://leetcode.com/uvarun1/)
-- 🎓 *Education:* B.Tech (AI & ML), G.H. Raisoni College of Engineering and Management, Pune (2022–2026)
-- 🏆 *Interests:* Machine Learning Research, Technology Innovation
-
----
-
-## 🛠 Skills & Tech Stack
-
-- Programming: Python, C, C++, JavaScript
-- Web: HTML5, CSS3, JavaScript ES6, React.js
-- Frameworks: Django, Scrapy, Tkinter, NumPy, Pandas, PyTorch
-- Databases: SQL, MySQL, SQLite
-- Tools: Git, GitHub, VS Code, PyCharm
-
----
-
-## 🚀 Projects
-
-*Great Cart – E-commerce Website*
-  - HTML, CSS, JavaScript, Django, SQL
-  - Full-featured e-commerce platform with streamlined admin and user features
-
-*StockSmart – Smart Inventory System*
-  - Django, React, Python, SQL, ML
-  - Real-time tracking, ML demand forecasting, analytics dashboard
-
----
-
-## 📊 GitHub Stats & Activity
-
+<!-- Typing SVG -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Varun292004&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun292004&theme=tokyonight&layout=compact" alt="Top Languages"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun292004&theme=darkhub" alt="GitHub Trophies"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun292004&theme=tokyo-night" alt="GitHub Activity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Varun+Vijay+Kale;AI+%26+ML+Enthusiast+⚡;Full+Stack+Developer+💻;Problem+Solver+🚀;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 ---
 
-<!-- Modern, techy, hacker feel -->
+## 🧑‍💻 About Me  
+- 🎓 B.Tech in *Artificial Intelligence & Machine Learning* @ G.H. Raisoni College of Engineering, Pune  
+- 💡 Passionate about *Machine Learning, Web Development, and Data Structures & Algorithms*  
+- 🚀 Exploring *Full-Stack Development + AI-driven Systems*  
+- 🏆 Active on [LeetCode](https://leetcode.com/u/varun_1/) & coding contests  
+- 📬 Reach me: *varunkale1829@gmail.com*
+
+---
+
+## ⚙ Tech Stack  
+
 <p align="center">
-  <img src="assets/hacker_signature.png" width="200" alt="Hacker Signature"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,django,sqlite,mysql,git,github,vscode,pytorch&theme=dark" />
+</p>
+
+---
+
+## 🔥 Projects Showcase  
+
+🚀 *Great Cart* – Full-stack E-commerce platform with *Django + SQL*  
+🚀 *StockSmart* – Smart inventory system with *React, Django & ML algorithms*  
+
+---
+
+## 📊 GitHub Stats (Hacker Mode)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun292004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun292004&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="180"/>
+</p>
+
+---
+
+## 📂 My Repositories & Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun292004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" height="170"/>
+</p>
+
+---
+
+## ⚡ Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun292004&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varun292004/Varun292004/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </p>
